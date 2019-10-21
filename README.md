@@ -1,5 +1,5 @@
 # ContributionDAO
-ContributionDAO - CDAO - is a DAO ( Decentralized Autonomous Organization ) designed for overseeing and governing collaborative contribution by multiple parties in public blockchain ecosystem. This DAO is chain-agnostic, it is just my personal flavor to choose ICON public chain as the target platform for its implementation. By using economic mechanism designed in this paper, anyone can build it on any blockchain that satisfy its requirements.
+ContributionDAO - CDAO - is a DAO ( Decentralized Autonomous Organization ) designed for overseeing and governing collaborative contribution by multiple parties in public blockchain ecosystem. This DAO is chain-agnostic, it is just my personal flavor to choose ICON public chain as the target platform for its implementation. By using protocol designed in this paper, anyone can build it on any blockchain that satisfy its requirements.
 
 The ultimate purpose of ContributionDAO is to maintain a public trustless system which host and govern everyone's contribution quantitatively. All contribution proposals it hosts are evaluated and quantified by community, therefore it is publicly owned.
 
